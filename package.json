@@ -10,7 +10,6 @@
 		"lint": "next lint"
 	},
 	"dependencies": {
-		"@plasmicapp/react-web": "^0.1.27",
 		"autoprefixer": "^10.4.12",
 		"chart.js": "^3.9.1",
 		"flowbite": "^1.5.3",
